@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception
     {
-        int age = 12;
+        int age = 68;
         if(age > 0 && age <= 17)
         {
             System.out.println( age + ". You are under age.");
